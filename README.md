@@ -1,6 +1,6 @@
 # 🌟 Sibeko Siphiwe's Portfolio | Code • Creativity  
 
-**🚀 Live Demo:** [siphiwe.dev](https://www.mrsiphiwe.rf.gd/) | **💌 Let's Connect:** [LinkedIn](www.linkedin.com/in/siphiwe-sibeko-ba418a312)
+**🚀 Live Demo:** [siphiwe.dev](https://www.mrsiphiwe.rf.gd/) | **💌 Let's Connect:** [LinkedIn](https://www.linkedin.com/in/siphiwe-sibeko-ba418a312)
 
 ---
 
