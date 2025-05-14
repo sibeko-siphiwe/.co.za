@@ -1,20 +1,30 @@
-# 🌟 Sibeko Siphiwe's Portfolio | Code • Creativity  
+# Sibeko Siphiwe - Professional Portfolio  
 
-**🚀 Live Demo:** [siphiwe.dev](https://sibeko-siphiwe.github.io/portfolio) | **💌 Let's Connect:** [LinkedIn](https://www.linkedin.com/in/siphiwe-sibeko)
-
----
-
-## 🎨 About This Project
-
-Welcome to my **digital playground**—a fusion of code, design, and way too many caffeine-powered late nights! This repository houses my portfolio website, where I showcase my favorite projects, experiments, and the occasional "why did I think this was a good idea at 2AM?" moments. Built with **love** and **React/Tailwind CSS**.
-
-![Portfolio Screenshot](./portfolio-screenshot.png)
+**🌐 Live Demo:** [siphiwe.dev](https://sibeko-siphiwe.github.io/portfolio) | **🤝 Professional Network:** [LinkedIn](https://www.linkedin.com/in/siphiwe-sibeko)
 
 ---
 
-## ✨ Features
+## 📋 Project Overview
 
-- **🌈 Interactive Magic:** Hover animations, smooth transitions (because drama is fun)
-- **📂 Project Showcase:** My greatest hits (and hilarious misses) displayed like a tech art gallery
-- **🔧 Built to Tinker:** Modular components, clean code, and a `/weird-experiments` branch I'm too scared to merge
-- **📱 Responsive AF:** Looks great on screens, toasters, and that ancient iPhone 4 in your drawer
+This repository contains my technical portfolio demonstrating full-stack development capabilities through implemented solutions. Built with modern web technologies, the platform emphasizes:
+
+![Portfolio Interface](./portfolio-screenshot.png)
+
+---
+
+## 🛠️ Core Features
+
+### **⚡ Interactive Experience**
+- Context-aware animations   
+- State-driven UI transitions 
+
+### **🔧 Technical Implementation**
+- Component-driven architecture (Atomic Design)
+- Responsive layout system (CSS Grid + Flexbox)
+- Accessibility compliance  
+- Cross-browser compatibility testing
+
+### **🚀 Deployment & Optimization**
+- CI/CD pipeline implementation (GitHub Actions) 
+- Lazy loading strategies
+- Automated performance audits (Lighthouse CI) 
