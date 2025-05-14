@@ -1,6 +1,6 @@
 # Sibeko Siphiwe - Professional Portfolio  
 
-**🌐 Live Demo:** [siphiwe.dev](https://sibeko-siphiwe.github.io/portfolio) | **🤝 Professional Network:** [LinkedIn](https://www.linkedin.com/in/siphiwe-sibeko)
+**🌐 Live Demo:** [siphiwe.dev](https://sibeko-siphiwe.github.io/.co.za/) | **🤝 Professional Network:** [LinkedIn](https://www.linkedin.com/in/siphiwe-sibeko)
 
 ---
 
