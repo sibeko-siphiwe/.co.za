@@ -1,22 +1,20 @@
 # 🌟 Sibeko Siphiwe's Portfolio | Code • Creativity  
 
-**🚀 Live Demo:** [siphiwe.dev](https://sibeko-siphiwe.github.io/.co.za/) | **💌 Let's Connect:** [LinkedIn](https://www.linkedin.com/in/siphiwe-sibeko)
+**🚀 Live Demo:** [siphiwe.dev](https://sibeko-siphiwe.github.io/portfolio) | **💌 Let's Connect:** [LinkedIn](https://www.linkedin.com/in/siphiwe-sibeko)
 
 ---
 
 ## 🎨 About This Project
 
-Welcome to my **digital playground**—a fusion of code, design, and way too many caffeine-powered late nights! This repository houses my portfolio website, where I showcase my favorite projects, experiments, and the occasional "why did I think this was a good idea at 2AM?" moments. Built with **love** and **[Tech Stack]**.
+Welcome to my **digital playground**—a fusion of code, design, and way too many caffeine-powered late nights! This repository houses my portfolio website, where I showcase my favorite projects, experiments, and the occasional "why did I think this was a good idea at 2AM?" moments. Built with **love** and **React/Tailwind CSS**.
 
-
-![Portfolio Screenshot](./Screenshot 2025-05-14 165235.png) <!-- Add a screenshot later! -->
-![Portfolio Screenshot](./Screenshot 2025-05-14 165235.png) <!-- Add a screenshot later! -->
+![Portfolio Screenshot](./portfolio-screenshot.png)
 
 ---
 
 ## ✨ Features
 
-- **🌈 Interactive Magic:** Hover animations, smooth transitions, etc (because drama is fun).
-- **📂 Project Showcase:** My greatest hits (and hilarious misses) displayed like a tech art gallery.
-- **🔧 Built to Tinker:** Modular components, clean code, and a `/weird-experiments` branch I’m too scared to merge.
-- **📱 Responsive AF:** Looks great on screens, toasters, and that ancient iPhone 4 in your drawer.
+- **🌈 Interactive Magic:** Hover animations, smooth transitions (because drama is fun)
+- **📂 Project Showcase:** My greatest hits (and hilarious misses) displayed like a tech art gallery
+- **🔧 Built to Tinker:** Modular components, clean code, and a `/weird-experiments` branch I'm too scared to merge
+- **📱 Responsive AF:** Looks great on screens, toasters, and that ancient iPhone 4 in your drawer
