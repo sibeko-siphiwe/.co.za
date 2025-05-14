@@ -8,7 +8,7 @@
 
 Welcome to my **digital playground**—a fusion of code, design, and way too many caffeine-powered late nights! This repository houses my portfolio website, where I showcase my favorite projects, experiments, and the occasional "why did I think this was a good idea at 2AM?" moments. Built with **love** and **[Tech Stack]**.
 
-![Portfolio Screenshot](./Screenshot.png) <!-- Add a screenshot later! -->
+![Portfolio Screenshot](./Screenshot.webp) <!-- Add a screenshot later! -->
 
 ---
 
